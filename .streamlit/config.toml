@@ -1,0 +1,10 @@
+[client]
+showSidebarNavigation = false
+
+[server]
+cookieSecret = "adc5b8c026f620a763d8f65861adb23a"
+
+[theme]
+primaryColor="#1E8A2B"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#E6FFDC"

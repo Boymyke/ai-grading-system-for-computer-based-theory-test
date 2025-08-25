@@ -1,0 +1,25 @@
+/* Button colors */
+.st-key-get-started button { background-color: #2df61e; color: white; }
+
+/* Hover effects */
+.st-key-get-started button:hover { transform: scale(1.05); color: rgb(12, 175, 0); }
+
+
+.st-key-take-exam button  .st-key-view-result button {
+    background-color: #0bda04;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+    margin-bottom: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.st-key-take-exam button:hover  .st-key-view-result button:hover {
+    background-color: #00ac20;
+}
